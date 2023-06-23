@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/TrabalhoED.dir/main.c.o CMakeFiles/TrabalhoED.dir/FilaNavios.c.o CMakeFiles/TrabalhoED.dir/pilhaContainers.c.o CMakeFiles/TrabalhoED.dir/funcoesPorto.c.o -o TrabalhoED 
